@@ -25,13 +25,16 @@ function App() {
     //   </header>
     // </div>
     <>
-<ButtonAccordions/>
+{/* <ButtonAccordions/>
  <LikeButtons/>
 
-<Carousel/>
-    </>
-  // <ZingPlay/>
-  );
+ <
+<Carousel/> */}
+{/*  
+  // <ZingPlay/> */}
+  <Form/>
+  </>
+  )
 }
 
 export default App;
