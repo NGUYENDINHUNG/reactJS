@@ -1,0 +1,27 @@
+
+#exampleFormControlInput1{
+    width: 200px;
+    height: 50px;
+    border-radius: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 16px;
+    background-color:palevioletred;
+    margin-left: 20px;
+    
+}
+#exampleFormControlInput1:hover{
+ 
+    border: 2px solid #FF52A2;
+   
+
+}
+.form{
+ background-image: url("https://mega.com.vn/media/news/0106_hinh-nen-4k-may-tinh24.jpg");
+ color: #FF52A2;
+}

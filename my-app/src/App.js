@@ -2,7 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 import ButtonAccordions from './components/buttonAccordions' 
 import LikeButtons from './components/likeButtons';
-
+import Form from './components/form';
+import Carousel from './components/carousel';
+import ZingPlay from './components/zingPlay';
 
 function App() {
   return (
@@ -22,11 +24,13 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <ButtonAccordions/>
-  //   // <PlayList/>
-  //  <LikeButtons/>
- 
-  
+    <>
+<ButtonAccordions/>
+ <LikeButtons/>
+
+<Carousel/>
+    </>
+  // <ZingPlay/>
   );
 }
 
